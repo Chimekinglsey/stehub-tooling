@@ -43,3 +43,6 @@ git clone https://github/Chimekinglsey/tooling-website.git
 This project is open-source and is licensed under the [MIT License](LICENSE).
 ### Docker Information
 - **Docker Hub:** [steghub/tooling-website](https://hub.docker.com/r/steghub/tooling-website)
+
+## Testing Publish Over SSH
+1. Storing artifacts in a remote server
