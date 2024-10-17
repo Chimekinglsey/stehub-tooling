@@ -46,3 +46,4 @@ This project is open-source and is licensed under the [MIT License](LICENSE).
 
 ## Testing Publish Over SSH
 1. Storing artifacts in a remote server
+2. Testing the publish over SSH plugin with updated access rights
