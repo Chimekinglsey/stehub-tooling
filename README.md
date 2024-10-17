@@ -22,6 +22,10 @@ The project leverages the following technologies:
 - **Other:**
   - Docker (For containerization)
   - Composer (For PHP dependency management)
+ 
+### Contributors
+  - StegHub (Author)
+  - Chime Kingsley (onlinekingsley@gmail.com)
 
 ### Versioning
 
