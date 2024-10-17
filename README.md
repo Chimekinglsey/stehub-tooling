@@ -27,6 +27,11 @@ The project leverages the following technologies:
   - StegHub (Author)
   - Chime Kingsley (onlinekingsley@gmail.com)
 
+## Getting Started
+1. Clone the repository
+```bash
+git clone https://github/Chimekinglsey/tooling-website.git
+```
 ### Versioning
 
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Ubuntu Version |
