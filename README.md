@@ -32,8 +32,12 @@ The project leverages the following technologies:
 ```bash
 git clone https://github/Chimekinglsey/tooling-website.git
 ```
+
 ### Versioning
 
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Ubuntu Version |
 |-----|-------|-----|--------|--------|
 | latest | master Branch |1.17.2 | 8.3 | Latest |
+
+## License
+This project is open-source and is licensed under the [MIT License](LICENSE).
